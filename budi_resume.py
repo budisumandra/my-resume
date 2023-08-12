@@ -22,6 +22,9 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 Car Price Prediction" : "https://budisumandra-car-price-prediction-app-dcl6dw.streamlit.app/",
+    "🏆 Deploy Water Potability with Flask" : "https://github.com/budisumandra/PotabilityDeploy_Flask",
+    "🏆 Handwritten Digit Prediction with GaussianNB Algorihtm" : "https://github.com/budisumandra/handwritten_GaussianNB",
+    "🏆 Water Potability Prediction with Tress|XGBoost Algorithm" : "https://github.com/budisumandra/water_potability_Trees-XGBoost",
     "🏆 Water Potability Prediction": "https://budisumandra-water-potability-prediction-app-625p0w.streamlit.app/",
     "🏆 Visual Analysis of Airbnb New York Dataset":"https://medium.com/@budisumandra/performed-visual-analysis-to-airbnb-new-york-dataset-using-barplot-pie-chart-catplot-and-map-406390afaa88",
     "🏆 Array/Ndarrays with Numpy":"https://medium.com/@budisumandra/numpy-multiple-options-for-creating-array-ndarrays-tensors-with-numpy-b6cedc76fd9b",
